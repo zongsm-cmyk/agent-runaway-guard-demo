@@ -1,5 +1,7 @@
 # Agent Runaway Guard — Public Proof
 
+[![proof-ci](https://github.com/zongsm-cmyk/agent-runaway-guard-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/zongsm-cmyk/agent-runaway-guard-demo/actions/workflows/ci.yml)
+
 Small, runnable proof for two failure modes that make autonomous AI agents expensive:
 
 1. repeated identical tool calls;
