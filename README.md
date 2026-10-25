@@ -44,6 +44,6 @@ The full commercial kit combines:
 ## Full kit
 
 Agent Runaway Guard Kit v1.0.0:
-https://mhamedasskoure.gumroad.com/l/agent-runaway-guard-kit
+https://mhamedasskoure.gumroad.com/l/agent-runaway-guard-kit?utm_source=github&utm_medium=organic&utm_campaign=winner_validation_20261025&utm_content=agent_runaway_demo_readme
 
 Launch price: $24.
