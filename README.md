@@ -11,6 +11,16 @@ This repository is intentionally small. It proves the integration pattern withou
 commercial kit's cycle detector, retry-storm guard, regression CLI, synthetic replay corpus,
 incident tooling, or full QA package.
 
+## New: free offline trace preflight (post-run)
+
+Have a suspicious agent execution log? Run the [free Agent Loop Trace Preflight](docs/TRACE_PREFLIGHT.md) against the included synthetic JSONL example or a **sanitized, normalized** event trace. It identifies repeated identical calls and simple A→B→A→B patterns **after a run**, without making API calls or printing tool arguments.
+
+```bash
+python trace_preflight.py examples/agent_trace_sample.jsonl --json
+```
+
+This is not a production guard or native Claude Code log importer. For **pre-dispatch** runtime protection, see the separate [$24 commercial kit](https://mhamedasskoure.gumroad.com/l/agent-runaway-guard-kit?utm_source=github&utm_medium=free_trace&utm_campaign=agent_trace_launch_20261108).
+
 ## Try the free proof, then choose the full kit
 
 This public demo is intentionally free and runnable in Python. It reproduces a repeated-tool-call guard so you can inspect the behavior **before spending anything**.
