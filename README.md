@@ -2,6 +2,8 @@
 
 [![proof-ci](https://github.com/zongsm-cmyk/agent-runaway-guard-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/zongsm-cmyk/agent-runaway-guard-demo/actions/workflows/ci.yml)
 
+**External directory listing:** [Agent Runaway Guard Kit on AI Agents Info](https://www.aiagentsinfo.com/directory/agent-runaway-guard-kit) (community-submitted on 8 Nov 2026; **not** an independent review or customer endorsement). The free trace preflight below remains usable without a purchase.
+
 Small, runnable proof for two failure modes that make autonomous AI agents expensive:
 
 1. repeated identical tool calls;
