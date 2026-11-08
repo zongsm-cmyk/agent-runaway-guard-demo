@@ -1,0 +1,7 @@
+{"tool":"search","args":{"query":"fictional price list"},"estimated_cost_usd":"0.01"}
+{"tool":"read","args":{"source":"synthetic-page-a"},"estimated_cost_usd":"0.02"}
+{"tool":"search","args":{"query":"fictional price list"},"estimated_cost_usd":"0.01"}
+{"tool":"read","args":{"source":"synthetic-page-a"},"estimated_cost_usd":"0.02"}
+{"tool":"fetch","args":{"id":"synthetic-id-1"},"estimated_cost_usd":"0.03"}
+{"tool":"fetch","args":{"id":"synthetic-id-1"},"estimated_cost_usd":"0.03"}
+{"tool":"fetch","args":{"id":"synthetic-id-1"},"estimated_cost_usd":"0.03"}
