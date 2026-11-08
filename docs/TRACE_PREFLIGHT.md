@@ -58,4 +58,6 @@ The [Agent Runaway Guard Kit — $24 on Gumroad](https://mhamedasskoure.gumroad.
 
 **Difference:** This free scanner looks at a trace **after the fact**. The commercial kit's guard layer is designed to reject selected actions **before they run**, when integrated into your workflow and configured with appropriate budgets. Neither tool guarantees correctness or savings, and a false positive can represent a legitimate repeated task. Inspect the [live product description](https://mhamedasskoure.gumroad.com/l/agent-runaway-guard-kit) for current file list, license and checkout terms.
 
+**Already reviewed the scope and want the paid pre-dispatch guard kit?** [Continue to $24 Gumroad checkout](https://mhamedasskoure.gumroad.com/l/agent-runaway-guard-kit?wanted=true&utm_source=github&utm_medium=free_proof&utm_campaign=trace_preflight_direct_checkout_20261108). Otherwise, [inspect the full public product description first](https://mhamedasskoure.gumroad.com/l/agent-runaway-guard-kit). No account signup is required to use the free scanner.
+
 **Disclosure:** The author of this free scanner sells the optional paid kit. No purchase or email signup is required to use this sample. Neither project is affiliated with any model provider or agent framework.
