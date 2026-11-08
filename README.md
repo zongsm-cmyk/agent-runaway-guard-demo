@@ -11,6 +11,12 @@ This repository is intentionally small. It proves the integration pattern withou
 commercial kit's cycle detector, retry-storm guard, regression CLI, synthetic replay corpus,
 incident tooling, or full QA package.
 
+## Try the free proof, then choose the full kit
+
+This public demo is intentionally free and runnable in Python. It reproduces a repeated-tool-call guard so you can inspect the behavior **before spending anything**.
+
+If that is the failure mode you need to control, the optional [Agent Runaway Guard Kit ($24)](https://mhamedasskoure.gumroad.com/l/agent-runaway-guard-kit?utm_source=github&utm_medium=free_demo&utm_campaign=agent_guard_first_sale_20261108) adds the documented local loop, retry-storm and budget-boundary checks plus regression resources. The demo does not establish any production cost savings or guarantee it can prevent every kind of runaway execution.
+
 ## Run it
 
 ```bash
