@@ -4,6 +4,8 @@
 
 **External directory listing:** [Agent Runaway Guard Kit on AI Agents Info](https://www.aiagentsinfo.com/directory/agent-runaway-guard-kit) (community-submitted on 8 Nov 2026; **not** an independent review or customer endorsement). The free trace preflight below remains usable without a purchase.
 
+**Compare all three original developer kits:** [Askoure Systems Shop](https://shop.askouresystems.com/?utm_source=github&utm_medium=organic&utm_campaign=agent_demo_askoure_shop). The store links to individual Gumroad checkout pages.
+
 Small, runnable proof for two failure modes that make autonomous AI agents expensive:
 
 1. repeated identical tool calls;
